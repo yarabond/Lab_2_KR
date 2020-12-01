@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/max/CLionProjects/mmm/cannon.cpp
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+math.h
+-
+mpi.h
+-
+

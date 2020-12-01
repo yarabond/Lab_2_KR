@@ -1,0 +1,1 @@
+/usr/bin/mpic++  -g   CMakeFiles/mmm.dir/cannon.cpp.o  -o mmm 
